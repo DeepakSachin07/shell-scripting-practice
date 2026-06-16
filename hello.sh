@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello world"
+echo "version 2"
